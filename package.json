@@ -1,0 +1,14 @@
+{
+  "name": "p1",
+  "version": "1.0.0",
+  "description": "Resolución del parcial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Badwin Arévalo Vera",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
